@@ -6,12 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 80
-    content: >
+    content: |
       # SWITCHBLOX
 
-
-      # The tiny, rugged ethernet switch for drones, robots and next generation
-      industrial devices. BUY LEARN WORLD'S SMALLEST ETHERNET SWITCH
+      # BUY LEARN WORLD'S SMALLEST ETHERNET SWITCH
     actions:
       - title: See all items
         url: /store
