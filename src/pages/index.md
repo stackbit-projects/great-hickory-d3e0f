@@ -10,7 +10,7 @@ sections:
       # SWITCHBLOX
 
 
-      ## The tiny, rugged ethernet switch for drones, robots and next generation
+      # The tiny, rugged ethernet switch for drones, robots and next generation
       industrial devices. BUY LEARN WORLD'S SMALLEST ETHERNET SWITCH
     actions:
       - title: See all items
